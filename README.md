@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelsom8
 - 👀 I’m interested in new opportunities to learn and workaround the world
-- 🌱 I’m currently learning javascript and python 
+- 🌱 I’m currently learning cybersecurity, python, networks 
 - 💞️ I’m looking to collaborate on new projects like a beginner dev 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
