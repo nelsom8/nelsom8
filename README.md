@@ -1,3 +1,6 @@
+Buy me a coffee 
+https://buymeacoffee.com/nelsom
+
 - 👋 Hi, I’m @nelsom8
 - 👀 I’m interested in new opportunities to learn and workaround the world
 - 🌱 I’m currently learning cybersecurity, python, networks 
